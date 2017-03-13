@@ -1,6 +1,6 @@
 {
   "name": "superfly-css-task-clean",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Deletes the target folder (Cleans the build folder)",
   "main": "src/main/js/index.js",
   "scripts": {
