@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/superfly-css/superfly-css-task-clean#readme",
   "dependencies": {
+    "del": "^2.2.2",
     "superfly-css-pli": "0.0.8"
   }
 }
